@@ -1,0 +1,23 @@
+{
+  "age_group": "40-45",
+  "chronic_conditions": ["mild asthma"],
+  "allergies": ["penicillin"],
+  "medications": ["montelukast", "occasional ibuprofen"],
+  "family_history": ["autoimmune disorder in sibling"],
+  "baseline_labs": {
+    "CRP": "usually low",
+    "WBC": "normal"
+  },
+  "recent_labs": [
+    {
+      "test": "CRP",
+      "value": "58 mg/L",
+      "flag": "high"
+    },
+    {
+      "test": "WBC",
+      "value": "12.0 x10^3/uL",
+      "flag": "mildly elevated"
+    }
+  ]
+}
